@@ -201,7 +201,7 @@ footer {
 
  }
 
-@media (max-width:768px){
+ @media (max-width:768px){
 .menu {
     display: none;
 
@@ -211,7 +211,7 @@ footer {
 width:100%;
 
 }
-}
+} 
 
 
 
