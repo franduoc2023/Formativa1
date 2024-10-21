@@ -201,5 +201,19 @@ footer {
 
  }
 
+@media (max-width:768px){
+.menu {
+    display: none;
+
+
+}
+.body {
+width:100%;
+
+}
+}
+
+
+
 /* Si en el drop de la categoria dejo top con px al pasar el mouse hace que categoria se vaya
 /*por eso hay que dejar subcategoria con 100% y el espacio se maneja en cascada li
